@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="20dp"
+
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/downLoad"
+        android:layout_width="match_parent"
+        android:text="DownLoad"
+        android:fontFamily="@font/montserrat_medium"
+        android:textSize="16sp"
+        android:paddingTop="8dp"
+        android:focusable="true"
+        android:clickable="true"
+        android:background="@drawable/line"
+        android:paddingBottom="10dp"
+        android:textColor="@android:color/black"
+        android:paddingStart="15dp"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="match_parent"
+        android:text="Share"
+        android:focusable="true"
+        android:clickable="true"
+        android:fontFamily="@font/montserrat_medium"
+        android:textSize="16sp"
+        android:paddingTop="8dp"
+        android:background="@drawable/line"
+        android:paddingBottom="10dp"
+        android:textColor="@android:color/black"
+        android:paddingStart="15dp"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/addBackround"
+        android:focusable="true"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:text="Add Backround"
+        android:fontFamily="@font/montserrat_medium"
+        android:textSize="16sp"
+        android:paddingTop="8dp"
+        android:background="@drawable/line"
+        android:paddingBottom="10dp"
+        android:textColor="@android:color/black"
+        android:paddingStart="15dp"
+        android:layout_height="wrap_content"/>
+
+
+
+
+</LinearLayout>
