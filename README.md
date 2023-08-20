@@ -34,6 +34,9 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
             <li><a href="https://developer.android.com/topic/architecture">Clean architecture</a> for better code and project architecture.</li>
             <li><a href="https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview">Macrobenchmark Test</a> for testing performance in the app.</li>
             <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview">Baseline Profiles</a> for improving performance in the app.</li>
+            <li><a href="https://m3.material.io/">Material Design</a> To incorporate aesthetically pleasing components into the app.</li>
+            <li><a href="https://developer.android.com/jetpack/compose">Navigation Component</a> To navigate between screens in jetpack compose app.</li>
+            <li><a href="https://developer.android.com/develop/ui/views/launch/splash-screen">Splash Screen Api</a> To display a splash screen at the time of app initialization and processing</li>
             <li>And more...</li>
         </ul>
 </div>
