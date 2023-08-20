@@ -26,8 +26,9 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
             <li>Show creator details</li>
             <li>and more ...</li>
     </ul>
-        
-    <h3>In this app, I used</h3>
+</div>
+<div>
+         <h3>In this app, I used</h3>
     
     <ul>
                 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">MVVM</a> as a design pattern.</li>
