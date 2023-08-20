@@ -173,6 +173,9 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
 <h1>🏛️ Architecture</h1>
 <div>
       <h3>Anime App follows <a href="https://developer.android.com/topic/architecture">Google's official architecture guidance</a>.</h3>  
-      
+        <p>
+                The overall architecture is composed of two layers; UI Layer and the data layer. Each layer has dedicated components and they each have different responsibilities. The arrow means the component has a dependency on the target component following its direction.
+        </p>
+      ![Beige Colorful Minimal Flowchart Infographic Graph](https://github.com/HmidouZaka/Anime-Android-App/assets/94437384/a471484d-1e74-4121-baac-8d1913319d60)
 </div>
 
