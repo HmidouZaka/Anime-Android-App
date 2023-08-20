@@ -101,15 +101,30 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
  <h1>🛠️ I used </h1>
 
 <div>
-       <div>
-               <P>
-                  <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"   width="10%" alt="Image 1" >
-                  <h3><a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a></h3>
-               </P>
-             
-              <p>
-                     I used Jetpack Compose in this project to create beautiful UI/UX
-              </p>
-       </div> 
+       <resources>
+    <string name="app_description">
+        <![CDATA[
+        <ul>
+            <li>Minimum SDK level 21.</li>
+            <li>100% Jetpack Compose based + Coroutines + Flow for asynchronous.</li>
+            <li>Compose Chat SDK for Messaging: The Jetpack Compose Chat Messaging SDK is built on a low-level chat client and provides modular, customizable Compose UI components that you can easily drop into your app.</li>
+            <li>Jetpack Compose: Android’s modern toolkit for building native UI.</li>
+            <li>ViewModel: UI related data holder and lifecycle aware.</li>
+            <li>App Startup: Provides a straightforward, performant way to initialize components at application startup.</li>
+            <li>Navigation: For navigating screens and Hilt Navigation Compose for injecting dependencies.</li>
+            <li>Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.</li>
+            <li>Hilt: Dependency Injection.</li>
+            <li>Landscapist Glide, animation, placeholder: Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.</li>
+            <li>accompanist: A collection of extension libraries for Jetpack Compose.</li>
+            <li>Retrofit2 & OkHttp3: Construct the REST APIs and paging network data.</li>
+            <li>Retrofit adapters: Retrofit adapters for modeling network responses with Kotlin Result, Jetpack Paging3, and Arrow Either.</li>
+            <li>ksp: Kotlin Symbol Processing API.</li>
+            <li>sealedx: Kotlin Symbol Processor to auto-generate extensive sealed classes and interfaces.</li>
+            <li>StreamLog: A lightweight and extensible logger library for Kotlin and Android.</li>
+            <li>Baseline Profiles: To improve app performance by including a list of classes and methods specifications in your APK that can be used by Android Runtime.</li>
+        </ul>
+        ]]>
+    </string>
+</resources>
 </div>
 
