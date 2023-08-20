@@ -33,24 +33,24 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
 <div>
         <h1 >😎 Preview</h1>
         <p align="center">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime.jpg?alt=media&token=21035faf-ddb4-4fd7-b0a9-a29baeb03846" width="24%" alt="Image 1">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime1s.jpg?alt=media&token=87204dca-2530-4922-973f-1fb2e40ee410" width="24%" alt="Image 2">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime2s.jpg?alt=media&token=ac16294c-cb94-40a3-91e3-6ecb7320f369" width="24%" alt="Image 3">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime3s.jpg?alt=media&token=aa3d1805-1f68-4567-88ca-f49f1f639e93" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F17992453-5393-40e3-b395-3697fcc49335.jpg?alt=media&token=77cd261d-7589-4006-a4a7-1f82008223b6" width="24%" alt="Image 1">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F3160df40-bc3a-41cb-8eae-2a5bca1363e7.jpg?alt=media&token=ca914c2b-c7d6-4072-b046-198d70f2b918" width="24%" alt="Image 2">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F34f1eb68-fa91-4379-8dcb-88d5abdd1dde.jpg?alt=media&token=b32e264f-056f-4e43-bab8-c74f17480adf" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F438e5394-3081-4904-98c7-cb3437343c9e.jpg?alt=media&token=dbf83dfe-1587-49a0-8b05-5de5ba7d9fe2" width="24%" alt="Image 3">
         </p>
             <h1></h1>
         <p align="center">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-15e1c0d944.gif?alt=media&token=ac150d88-9b42-4841-9a84-91c5c2e07e59" width="24%" alt="Image 1">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-e8833ffc37.gif?alt=media&token=4d094997-050a-4ace-8e30-d728dc4e72a8" width="24%" alt="Image 2">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-cf33588678.gif?alt=media&token=d0064cae-1713-4622-8956-5c77d2ea2048" width="24%" alt="Image 3">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-8245c3d302.gif?alt=media&token=d87dd47a-c0b1-45bd-b402-6b531fc2b90c" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F447ca890-cc9a-4eb7-81dd-00c9a8cdf7f4.jpg?alt=media&token=dcca1fb6-d5da-4ccb-bbbe-e2e8e736ec82" width="24%" alt="Image 1">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F58cdab9f-7877-4959-a16c-6c6f7fe3e2cf.jpg?alt=media&token=ffeb0268-f5a6-4c7b-a1e2-57ebbaa6c037" width="24%" alt="Image 2">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F98adbf80-1b7a-4753-9e63-94b183e7b8e0.jpg?alt=media&token=5ede6d4f-44df-43ea-8bd6-b1f4853e5d7a" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2F9ff10877-8343-48f9-b6dc-3fb0bc53bf4c.jpg?alt=media&token=606beafd-8cef-48fc-bff0-68521aebe7c1" width="24%" alt="Image 3">
         </p>
          <h1></h1>
         <p align="center">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-791bc8c0d1.gif?alt=media&token=65b072f9-208c-4494-9477-5c740303878a" width="24%" alt="Image 1">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-788306cb30.gif?alt=media&token=5fde08e9-c5e9-4f2d-b634-38a950bef66b" width="24%" alt="Image 2">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-5f5c0805f2.gif?alt=media&token=7cbcdabe-cc8c-4367-b2fa-f83008eade99" width="24%" alt="Image 3">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2FScreenrecorder-2023-08-20-16-33-46-818.gif?alt=media&token=796d2136-e7b0-414f-bfbc-cba96eda602a" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fdb5b48ca-5680-4f40-a571-cc9ad16a0a84.jpg?alt=media&token=0f3db252-7cb8-4e15-9ecc-885fadb86985" width="24%" alt="Image 1">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Ff234f9ad-3d14-4a9d-a984-8a2f821e085b.jpg?alt=media&token=15cf6e6f-8644-4db0-9e04-c5d7db705829" width="24%" alt="Image 2">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Ff4930b1b-4f57-45ef-9147-7b6b0b30605a.jpg?alt=media&token=805bcd32-7bf4-4a34-97c5-c7047e539448" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Ff89d05e4-0e27-40da-9fb3-572a382cf629.jpg?alt=media&token=10d20ecf-339d-4f17-a593-b39d78b22856" width="24%" alt="Image 3">
         </p>
 </div>
 
