@@ -152,13 +152,13 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
             <li>Jetpack
                     <ul>
                             <li>Compose: Android’s modern toolkit for building native UI.</li>
+                            <li>ViewModel: UI related data holder and lifecycle aware.</li>
+                            <li><a href="https://developer.android.com/jetpack/compose/libraries#hilt">Navigation</a> : For navigating screens and Hilt Navigation Compose for injecting dependencies.</li>
+                            <li><a href="https://developer.android.com/jetpack/androidx/releases/room">Room</a>: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.</li>
+                            <li><a href="https://developer.android.com/training/dependency-injection/hilt-android">Hilt</a>: Dependency Injection.</li>
                     </ul>
             </li>
-            <li>ViewModel: UI related data holder and lifecycle aware.</li>
-            <li>App Startup: Provides a straightforward, performant way to initialize components at application startup.</li>
-            <li>Navigation: For navigating screens and Hilt Navigation Compose for injecting dependencies.</li>
-            <li>Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.</li>
-            <li>Hilt: Dependency Injection.</li>
+
             <li>Landscapist Glide, animation, placeholder: Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.</li>
             <li>accompanist: A collection of extension libraries for Jetpack Compose.</li>
             <li>Retrofit2 & OkHttp3: Construct the REST APIs and paging network data.</li>
