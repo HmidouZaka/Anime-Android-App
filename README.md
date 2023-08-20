@@ -40,3 +40,47 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
             <li>And more...</li>
         </ul>
 </div>
+
+---
+
+
+ <h1>🛠️ Tools </h1>
+    <p>
+               This is a simple overview of the tools I used in this project, such as Android Studio, Git, GitHub, and Postman
+           </p>
+ <div align="center">
+      <table>
+                 <tr>
+                         <td width="30%">
+                                 <div align="center">
+                                      <img src="https://pic.clubic.com/v1/images/2092986/raw"   width="30%" alt="Image 1" >
+                                      <h3><a href="https://www.postman.com/">Postman</a></h3>
+                                      <p>
+                                          I used Postman to test the API and verify if all requests are working or not 
+                                      </p>
+                                 </div>    
+                         </td>
+                           <td width="30%">
+                                 <div align="center">
+                                      <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"   width="30%" alt="Image 1" >
+                                         <h3><a href="https://git-scm.com/">Git</a></h3>
+                                      <p>
+                                            I used Git to manage versions and updates in this project.
+                                      </p>
+                                 </div>    
+                         </td>
+                           <td width="30%">
+                                 <div align="center">
+                                      <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png"   width="30%" alt="Image 1" >
+                                      <h3><a href="https://developer.android.com/studio">Android Studio</a></h3>
+                                      <p>
+                                             I used Android Studio to create this app. It is an important tool for every Android developer
+                                      </p>
+                                 </div>    
+                         </td>
+                 </tr>
+         </table>
+
+ </div>
+
+---
