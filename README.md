@@ -36,13 +36,4 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
             <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview">Baseline Profiles</a> for improving performance in the app.</li>
             <li>And more...</li>
         </ul>
-   <h3>In this app, I used</h3>
-    
-    <ul>
-                <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">MVVM</a> as a design pattern.</li>
-                <li><a href="https://developer.android.com/topic/architecture">Clean architecture</a> for better code and project architecture.</li>
-                <li><a href="https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview">Macrobenchmark Test</a> for test performance in app</li>
-                <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview" >Baseline Profiles </a> for improve performance in app </li>
-                <li>And more...</li>
-    </ul>
 </div>
