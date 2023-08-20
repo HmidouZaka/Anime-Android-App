@@ -38,12 +38,18 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
         </p>
+        
+        -
+        
         <p align="center">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/d2a936ca-4d2c-4b87-9af8-a49f10e7d9d7" width="24%" alt="Image 1">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/807e272e-2740-437a-8045-1c36e1aa4ca1" width="24%" alt="Image 2">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
         </p>
+        
+        -
+        
         <p align="center">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/d2a936ca-4d2c-4b87-9af8-a49f10e7d9d7" width="24%" alt="Image 1">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/807e272e-2740-437a-8045-1c36e1aa4ca1" width="24%" alt="Image 2">
@@ -135,7 +141,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
                          </td>
                              <td width="30%">
                                  <div align="center">
-                                      <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/00e79ea6ffc44785a9f1ba9cf2afe936~tplv-k3u1fbpfcp-watermark.image?"   width="30%" alt="Image 1" >
+                                      <img src="https://a.fsdn.com/allura/mirror/leakcanary/icon?1688073393?&w=90"   width="30%" alt="Image 1" >
                                          <h3><a href="https://github.com/square/leakcanary">Leak canary</a></h3>
                                       <p>
                                            I used this library to verify if there are any memory leaks
