@@ -39,7 +39,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
         </p>
         
-         <h1> </h1>
+         --
         
         <p align="center">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/d2a936ca-4d2c-4b87-9af8-a49f10e7d9d7" width="24%" alt="Image 1">
@@ -48,7 +48,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
         </p>
         
-        <h1> </h1>
+        --
         
         <p align="center">
           <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/d2a936ca-4d2c-4b87-9af8-a49f10e7d9d7" width="24%" alt="Image 1">
