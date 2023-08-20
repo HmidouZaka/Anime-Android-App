@@ -16,7 +16,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
    <ul>
     <li>Search Anime</li>
     <li>Search Manga</li>
-    <li>Show top animes/li>
+    <li>Show top animes</li>
     <li>Show top mangas</li>
     <li>Anime Movies</li>
     <li>Desplay Anime Epsides</li>
