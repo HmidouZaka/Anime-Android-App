@@ -155,6 +155,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
                             <li>ViewModel: UI-related data holder and lifecycle aware.</li>
                             <li><a href="https://developer.android.com/jetpack/compose/libraries#hilt">Navigation</a> : For navigating screens and Hilt Navigation Compose for injecting dependencies.</li>
                             <li><a href="https://developer.android.com/jetpack/androidx/releases/room">Room</a>: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.</li>
+                            <li><a href="https://developer.android.com/training/dependency-injection/hilt-android">Hilt</a>: Dependency Injection.</li>
                          
                     </ul>
             </li>
@@ -168,6 +169,29 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
             <li>StreamLog: A lightweight and extensible logger library for Kotlin and Android.</li>
             <li>Baseline Profiles: To improve app performance by including a list of classes and methods specifications in your APK that can be used by Android Runtime.</li>
         </ul>
+
+        <ul>
+    <li>Minimum SDK level 21.</li>
+    <li>90% <a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a> based + <a href="https://github.com/Kotlin/kotlinx.coroutines">Coroutines</a> + <a href="https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/">Flow</a> for asynchronous.</li>
+    <li>Jetpack
+        <ul>
+            <li>Compose: Android’s modern toolkit for building native UI.</li>
+            <li>ViewModel: UI-related data holder and lifecycle aware.</li>
+            <li><a href="https://developer.android.com/jetpack/compose/libraries#hilt">Navigation</a>: For navigating screens and Hilt Navigation Compose for injecting dependencies.</li>
+            <li><a href="https://developer.android.com/jetpack/androidx/releases/room">Room</a>: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.</li>
+            <li><a href="https://developer.android.com/training/dependency-injection/hilt-android">Hilt</a>: Dependency Injection.</li>
+        </ul>
+    </li>
+    <li>Landscapist Glide, animation, placeholder: Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.</li>
+    <li>accompanist: A collection of extension libraries for Jetpack Compose.</li>
+    <li>Retrofit2 & OkHttp3: Construct the REST APIs and paging network data.</li>
+    <li>Retrofit adapters: Retrofit adapters for modeling network responses with Kotlin Result, Jetpack Paging3, and Arrow Either.</li>
+    <li>ksp: Kotlin Symbol Processing API.</li>
+    <li>Sealedx: Kotlin Symbol Processor to auto-generate extensive sealed classes and interfaces.</li>
+    <li>StreamLog: A lightweight and extensible logger library for Kotlin and Android.</li>
+    <li>Baseline Profiles: To improve app performance by including a list of classes and methods specifications in your APK that can be used by Android Runtime.</li>
+</ul>
+
    
 </div>
 
