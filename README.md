@@ -158,14 +158,11 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
                          <li><a href="https://developer.android.com/training/dependency-injection/hilt-android">Hilt</a>: Dependency Injection.</li>
                     </ul>
             </li>
-            <li>Landscapist Glide, animation, placeholder: Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.</li>
-            <li>accompanist: A collection of extension libraries for Jetpack Compose.</li>
-            <li>Retrofit2 & OkHttp3: Construct the REST APIs and paging network data.</li>
-            <li>Retrofit adapters: Retrofit adapters for modeling network responses with Kotlin Result, Jetpack Paging3, and Arrow Either.</li>
-            <li>ksp: Kotlin Symbol Processing API.</li>
-            <li>Sealedx: Kotlin Symbol Processor to auto-generate extensive sealed classes and interfaces.</li>
-            <li>StreamLog: A lightweight and extensible logger library for Kotlin and Android.</li>
-            <li>Baseline Profiles: To improve app performance by including a list of classes and methods specifications in your APK that can be used by Android Runtime.</li>
+            <li><a href="https://github.com/skydoves/landscapist#glide">Landscapist Glide</a>, <a href="https://github.com/skydoves/landscapist#animation">animation</a>, <a href="https://github.com/skydoves/landscapist#placeholder">placeholder</a>: Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.</li>
+            <li><a href="https://github.com/google/accompanist">accompanist</a>: A collection of extension libraries for Jetpack Compose.</li>
+            <li><a href="https://github.com/square/retrofit">Retrofit2 & OkHttp3</a>: Construct the REST APIs and paging network data.</li>
+            <li><a href="https://github.com/google/ksp">ksp</a>: Kotlin Symbol Processing API.</li>
+            <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview">Baseline Profiles</a>: To improve app performance by including a list of classes and methods specifications in your APK that can be used by Android Runtime.</li>
         </ul>
 
 
