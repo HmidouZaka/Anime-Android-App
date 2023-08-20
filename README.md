@@ -147,7 +147,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
                  </tr>
          </table>
         <ul>
-            <li>Minimum SDK level 21.</li>
+            <li>Minimum SDK level 26.</li>
             <li>90% <a href="https://developer.android.com/jetpack/compose"> Jetpack Compose </a>  based + <a href="https://github.com/Kotlin/kotlinx.coroutines" > Coroutines </a> +  <a href="https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/" >Flow  </a> for asynchronous.</li>
             <li>Jetpack
                     <ul>
