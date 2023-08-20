@@ -3,7 +3,6 @@
 
 <div align="center">
         <h1 >👋 Native Android Anime App </h1>
-         <h2 >Star ⭐ this repo to show your support and it really does matter! <h2 >
 </div>
 
 <div>
@@ -34,7 +33,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
                 <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">MVVM</a> as a design pattern.</li>
                 <li><a href="https://developer.android.com/topic/architecture">Clean architecture</a> for better code and project architecture.</li>
                 <li><a href="https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview">Macrobenchmark Test</a> for test performance in app</li>
-                <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview">Baseline Profiles</a> for improve performance in app</li>
+                <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview" >Baseline Profiles </a> for improve performance in app </li>
                 <li>And more...</li>
     </ul>
 </div>
