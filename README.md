@@ -4,3 +4,26 @@
 <div align="center">
         <h1 >👋 Native Android Anime App </h1>
 </div>
+
+<div>
+    <h3>🧐 Description</h3>
+    <p>
+    This is a native Android app designed to showcase anime content. It was built using Android Studio and the Kotlin programming language. In the app's user interface (UI) layer, Jetpack Compose and XML are employed. In the data layer, Room is utilized for local database management, and Retrofit is used for remote database interactions.
+The primary purpose of this app is to display information about anime and manga, including detailed descriptions. Developing this project was an enjoyable endeavor, and it took approximately 40 days to complete.
+To ensure optimal performance, benchmarking was employed to test the app's efficiency. Additionally, a baseline profiler was utilized to enhance performance metrics, such as startup time and navigation frame rates.
+            </p>
+    <h3>Features</h3>
+   <ul>
+    <li>Search Anime</li>
+    <li>Search Manga</li>
+    <li>Show top animes/li>
+    <li>Show top mangas</li>
+    <li>Anime Movies</li>
+    <li>Desplay Anime Epsides</li>
+    <li>Show Anime and manga details</li>
+    <li>Add anime or manga to favorit</li>
+    <li>offline mode</li>
+    <li>Show creator details</li>
+    <li>and more ...</li>
+</ul>
+</div>
