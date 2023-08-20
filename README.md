@@ -3,7 +3,7 @@
 
 <div align="center">
         <h1 >👋 Native Android Anime App </h1>
-        **Star ⭐ this repo to show your support and it really does matter! 👏** 
+         <h2 >Star ⭐ this repo to show your support and it really does matter! <h2 >
 </div>
 
 <div>
@@ -13,27 +13,28 @@
 The primary purpose of this app is to display information about anime and manga, including detailed descriptions. Developing this project was an enjoyable endeavor, and it took approximately 40 days to complete.
 To ensure optimal performance, benchmarking was employed to test the app's efficiency. Additionally, a baseline profiler was utilized to enhance performance metrics, such as startup time and navigation frame rates.
             </p>
-    <h3>Features</h3>
+   <h3>Features</h3>
    <ul>
-    <li>Search Anime</li>
-    <li>Search Manga</li>
-    <li>Show top animes</li>
-    <li>Show top mangas</li>
-    <li>Anime Movies</li>
-    <li>Desplay Anime Episodes</li>
-    <li>Show Anime and manga details</li>
-    <li>Add anime or manga to favorit</li>
-    <li>offline mode</li>
-    <li>Show creator details</li>
-    <li>and more ...</li>
-</ul>
-
-     <h3>In this app, I used</h3>
+            <li>Search Anime</li>
+            <li>Search Manga</li>
+            <li>Show top animes</li>
+            <li>Show top mangas</li>
+            <li>Anime Movies</li>
+            <li>Desplay Anime Episodes</li>
+            <li>Show Anime and manga details</li>
+            <li>Add anime or manga to favorit</li>
+            <li>offline mode</li>
+            <li>Show creator details</li>
+            <li>and more ...</li>
+    </ul>
+        
+    <h3>In this app, I used</h3>
+    
     <ul>
-        <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">MVVM</a> as a design pattern.</li>
-        <li><a href="https://developer.android.com/topic/architecture">Clean architecture</a> for better code and project architecture.</li>
-        <li><a href="https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview">Macrobenchmark Test</a> for test performance in app</li>
-        <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview">Baseline Profiles</a> for improve performance in app</li>
-        <li>And more...</li>
+                <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">MVVM</a> as a design pattern.</li>
+                <li><a href="https://developer.android.com/topic/architecture">Clean architecture</a> for better code and project architecture.</li>
+                <li><a href="https://developer.android.com/topic/performance/benchmarking/macrobenchmark-overview">Macrobenchmark Test</a> for test performance in app</li>
+                <li><a href="https://developer.android.com/topic/performance/baselineprofiles/overview">Baseline Profiles</a> for improve performance in app</li>
+                <li>And more...</li>
     </ul>
 </div>
