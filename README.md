@@ -177,7 +177,5 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
                 The overall architecture is composed of two layers; UI Layer and the data layer. Each layer has dedicated components and they each have different responsibilities. The arrow means the component has a dependency on the target component following its direction.
         </p>
           <img src="https://github.com/HmidouZaka/Anime-Android-App/assets/94437384/a471484d-1e74-4121-baac-8d1913319d60"   width="100%" alt="Image 1" >
-        [![MasterHead](https://github.com/HmidouZaka/Anime-Android-App/assets/94437384/a471484d-1e74-4121-baac-8d1913319d60)](https://rishavchanda.io)
-      ![Beige Colorful Minimal Flowchart Infographic Graph](https://github.com/HmidouZaka/Anime-Android-App/assets/94437384/a471484d-1e74-4121-baac-8d1913319d60)
 </div>
 
