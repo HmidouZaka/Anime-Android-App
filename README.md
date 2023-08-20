@@ -33,10 +33,10 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
 <div>
         <h1 >😎 Preview</h1>
         <p align="center">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-c31b5921c8.gif?alt=media&token=6f67b9d4-ed72-4609-a45f-4f97fdb65d60" width="24%" alt="Image 1">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-58b36ec21c.gif?alt=media&token=20f45ac3-d305-444f-b323-6a753a2b375a" width="24%" alt="Image 2">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-55e1975ee2.gif?alt=media&token=ebaf5546-ff27-4fa8-9c04-fc439ac4e3f7" width="24%" alt="Image 3">
-          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-2151cb779e.gif?alt=media&token=e1dc8404-2531-43fc-a730-1c34cce277f6" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime.jpg?alt=media&token=21035faf-ddb4-4fd7-b0a9-a29baeb03846" width="24%" alt="Image 1">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime1s.jpg?alt=media&token=87204dca-2530-4922-973f-1fb2e40ee410" width="24%" alt="Image 2">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime2s.jpg?alt=media&token=ac16294c-cb94-40a3-91e3-6ecb7320f369" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fanime3s.jpg?alt=media&token=aa3d1805-1f68-4567-88ca-f49f1f639e93" width="24%" alt="Image 3">
         </p>
             <h1></h1>
         <p align="center">
