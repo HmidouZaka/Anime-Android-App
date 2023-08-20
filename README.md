@@ -169,3 +169,10 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
    
 </div>
 
+
+<h1>🏛️ Architecture</h1>
+<div>
+      <h3>Anime App follows <a href="https://developer.android.com/topic/architecture">Google's official architecture guidance</a>.</h3>  
+      
+</div>
+
