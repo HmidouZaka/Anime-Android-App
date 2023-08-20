@@ -19,7 +19,7 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
     <li>Show top animes</li>
     <li>Show top mangas</li>
     <li>Anime Movies</li>
-    <li>Desplay Anime Epsides</li>
+    <li>Desplay Anime Episodes</li>
     <li>Show Anime and manga details</li>
     <li>Add anime or manga to favorit</li>
     <li>offline mode</li>
