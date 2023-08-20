@@ -101,6 +101,28 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
  <h1>🛠️ Tech Stack & Open Source Libraries </h1>
 
 <div>
+        <table>
+                 <tr>
+                         <td width="50%">
+                                 <div align="center">
+                                      <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"   width="30%" alt="Image 1" >
+                                      <h3><a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a></h3>
+                                      <p>
+                                             I used Jetpack Compose in this project to create beautiful UI/UX
+                                      </p>
+                                 </div>    
+                         </td>
+                           <td width="50%">
+                                 <div align="center">
+                                      <img src="https://zakhcodelabs.files.wordpress.com/2020/08/icon-kotlin-1024.png"   width="30%" alt="Image 1" >
+                                         <h3><a href="https://kotlinlang.org/">Kotlin</a></h3>
+                                      <p>
+                                           I used Kotlin as the main language in this app.
+                                      </p>
+                                 </div>    
+                         </td>
+                 </tr>
+         </table>
         <ul>
             <li>Minimum SDK level 21.</li>
             <li>100% Jetpack Compose based + Coroutines + Flow for asynchronous.</li>
