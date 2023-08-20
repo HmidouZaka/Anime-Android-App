@@ -98,12 +98,9 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
 
 ---
 
- <h1>🛠️ I used </h1>
+ <h1>🛠️ Tech Stack & Open Source Libraries </h1>
 
 <div>
-       <resources>
-    <string name="app_description">
-        <![CDATA[
         <ul>
             <li>Minimum SDK level 21.</li>
             <li>100% Jetpack Compose based + Coroutines + Flow for asynchronous.</li>
@@ -123,8 +120,6 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
             <li>StreamLog: A lightweight and extensible logger library for Kotlin and Android.</li>
             <li>Baseline Profiles: To improve app performance by including a list of classes and methods specifications in your APK that can be used by Android Runtime.</li>
         </ul>
-        ]]>
-    </string>
-</resources>
+   
 </div>
 
