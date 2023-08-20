@@ -33,24 +33,24 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
 <div>
         <h1 >😎 Preview</h1>
         <p align="center">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/d2a936ca-4d2c-4b87-9af8-a49f10e7d9d7" width="24%" alt="Image 1">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/807e272e-2740-437a-8045-1c36e1aa4ca1" width="24%" alt="Image 2">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-c31b5921c8.gif?alt=media&token=6f67b9d4-ed72-4609-a45f-4f97fdb65d60" width="24%" alt="Image 1">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-58b36ec21c.gif?alt=media&token=20f45ac3-d305-444f-b323-6a753a2b375a" width="24%" alt="Image 2">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-55e1975ee2.gif?alt=media&token=ebaf5546-ff27-4fa8-9c04-fc439ac4e3f7" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-2151cb779e.gif?alt=media&token=e1dc8404-2531-43fc-a730-1c34cce277f6" width="24%" alt="Image 3">
         </p>
             <h1></h1>
         <p align="center">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/d2a936ca-4d2c-4b87-9af8-a49f10e7d9d7" width="24%" alt="Image 1">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/807e272e-2740-437a-8045-1c36e1aa4ca1" width="24%" alt="Image 2">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-5-15e1c0d944.gif?alt=media&token=ac150d88-9b42-4841-9a84-91c5c2e07e59" width="24%" alt="Image 1">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-e8833ffc37.gif?alt=media&token=4d094997-050a-4ace-8e30-d728dc4e72a8" width="24%" alt="Image 2">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-cf33588678.gif?alt=media&token=d0064cae-1713-4622-8956-5c77d2ea2048" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-8245c3d302.gif?alt=media&token=d87dd47a-c0b1-45bd-b402-6b531fc2b90c" width="24%" alt="Image 3">
         </p>
          <h1></h1>
         <p align="center">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/d2a936ca-4d2c-4b87-9af8-a49f10e7d9d7" width="24%" alt="Image 1">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/807e272e-2740-437a-8045-1c36e1aa4ca1" width="24%" alt="Image 2">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
-          <img src="https://github.com/HmidouZaka/Quis-Native-Android-App/assets/94437384/c2d4b054-b977-4ab8-808c-26ce9585a888" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-791bc8c0d1.gif?alt=media&token=65b072f9-208c-4494-9477-5c740303878a" width="24%" alt="Image 1">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-788306cb30.gif?alt=media&token=5fde08e9-c5e9-4f2d-b634-38a950bef66b" width="24%" alt="Image 2">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2Fezgif-4-5f5c0805f2.gif?alt=media&token=7cbcdabe-cc8c-4367-b2fa-f83008eade99" width="24%" alt="Image 3">
+          <img src="https://firebasestorage.googleapis.com/v0/b/android-dev-4c204.appspot.com/o/images%2FScreenrecorder-2023-08-20-16-33-46-818.gif?alt=media&token=796d2136-e7b0-414f-bfbc-cba96eda602a" width="24%" alt="Image 3">
         </p>
 </div>
 
