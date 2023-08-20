@@ -149,8 +149,11 @@ To ensure optimal performance, benchmarking was employed to test the app's effic
         <ul>
             <li>Minimum SDK level 21.</li>
             <li>90% <a href="https://developer.android.com/jetpack/compose"> Jetpack Compose </a>  based + <a href="https://github.com/Kotlin/kotlinx.coroutines" > Coroutines </a> +  <a href="https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/" >Flow  </a> for asynchronous.</li>
-            <li>Compose Chat SDK for Messaging: The Jetpack Compose Chat Messaging SDK is built on a low-level chat client and provides modular, customizable Compose UI components that you can easily drop into your app.</li>
-            <li>Jetpack Compose: Android’s modern toolkit for building native UI.</li>
+            <li>Jetpack
+                    <ul>
+                            <li>Compose: Android’s modern toolkit for building native UI.</li>
+                    </ul>
+            </li>
             <li>ViewModel: UI related data holder and lifecycle aware.</li>
             <li>App Startup: Provides a straightforward, performant way to initialize components at application startup.</li>
             <li>Navigation: For navigating screens and Hilt Navigation Compose for injecting dependencies.</li>
